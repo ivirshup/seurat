@@ -36,4 +36,3 @@ echo "check python installation"
 pip list
 conda list
 which python
-R -e "reticulate::py_config()"
